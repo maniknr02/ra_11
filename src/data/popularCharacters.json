@@ -1,0 +1,117 @@
+[
+	{
+		"name": "Monkey D. Luffy",
+		"votes": 5432,
+		"animeName": "One Piece"
+	},
+	{
+		"name": "Naruto Uzumaki",
+		"votes": 4893,
+		"animeName": "Naruto"
+	},
+	{
+		"name": "Roronoa Zoro",
+		"votes": 345,
+		"animeName": "One Piece"
+	},
+	{
+		"name": "Ichigo Kurosaki",
+		"votes": 4321,
+		"animeName": "Bleach"
+	},
+	{
+		"name": "Goku",
+		"votes": 3987,
+		"animeName": "Dragon Ball"
+	},
+	{
+		"name": "Edward Elric",
+		"votes": 3456,
+		"animeName": "Fullmetal Alchemist"
+	},
+	{
+		"name": "Lelouch vi",
+		"votes": 3214,
+		"animeName": "Code Geass"
+	},
+	{
+		"name": "Saitama",
+		"votes": 2876,
+		"animeName": "One Punch Man"
+	},
+	{
+		"name": "Eren Yeager",
+		"votes": 2567,
+		"animeName": "Attack on Titan"
+	},
+	{
+		"name": "Kaneki Ken",
+		"votes": 2345,
+		"animeName": "Tokyo Ghoul"
+	},
+	{
+		"name": "Light Yagami",
+		"votes": 2134,
+		"animeName": "Death Note"
+	},
+	{
+		"name": "Natsu Dragneel",
+		"votes": 1890,
+		"animeName": "Fairy Tail"
+	},
+	{
+		"name": "Spike Spiegel",
+		"votes": 1734,
+		"animeName": "Cowboy Bebop"
+	},
+	{
+		"name": "Gon Freecss",
+		"votes": 1567,
+		"animeName": "Hunter x Hunter"
+	},
+	{
+		"name": "Ryuko Matoi",
+		"votes": 1432,
+		"animeName": "Kill la Kill"
+	},
+	{
+		"name": "Trafalgar Law",
+		"votes": 1298,
+		"animeName": "One Piece"
+	},
+	{
+		"name": "Kagome Higurashi",
+		"votes": 1176,
+		"animeName": "Inuyasha"
+	},
+	{
+		"name": "Mikasa Ackerman",
+		"votes": 1045,
+		"animeName": "Attack on Titan"
+	},
+	{
+		"name": "Vegeta",
+		"votes": 923,
+		"animeName": "Dragon Ball"
+	},
+	{
+		"name": "Rin Tohsaka",
+		"votes": 789,
+		"animeName": "Fate/stay night"
+	},
+	{
+		"name": "Urahara Kisuke",
+		"votes": 678,
+		"animeName": "Bleach"
+	},
+	{
+		"name": "Sasuke Uchiha",
+		"votes": 567,
+		"animeName": "Naruto"
+	},
+	{
+		"name": "Jotaro Kujo",
+		"votes": 456,
+		"animeName": "JoJo's Bizarre Adventure"
+	}
+]
