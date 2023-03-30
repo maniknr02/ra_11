@@ -10,6 +10,7 @@ import { Community } from "./components/Community";
 import { HomePage } from "./components/HomePage";
 import { AnimeDetails } from "./components/AnimeDetails";
 import { ThemeProvider } from "@emotion/react";
+import { Footer } from "./components/Footer";
 const theme = createTheme({
 	typography: {
 		fontFamily: ["Alkatra", "cursive"].join(","),
@@ -18,7 +19,14 @@ const theme = createTheme({
 function App() {
 	return (
 		<ThemeProvider theme={theme}>
-			<Box sx={{ color: "white" }}>
+			<Box
+				sx={{
+					color: "white",
+					minHeight: "100vh",
+					display: "flex",
+					flexDirection: "column",
+				}}
+			>
 				<NavBar />
 				<Routes>
 					<Route path="/" element={<PageBody />}>
@@ -31,6 +39,7 @@ function App() {
 						<Route path="Community" element={<Community />} />
 					</Route>
 				</Routes>
+				<Footer />
 			</Box>
 		</ThemeProvider>
 	);
